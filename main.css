@@ -1,0 +1,59 @@
+*{
+  background-color: #ced8be;
+  margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	font-family: 'Nunito', sans-serif;
+}
+h1, h2{
+  text-align: center
+  ;
+  text-transform: capitalize;
+  margin-top: 5%;
+}
+a{
+  text-decoration: none;
+
+}
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: #50745f;
+  padding: 10px 50px;
+  position: absolute;
+  bottom: 0%;
+}
+.footer__text {
+  margin-right: 5px;
+  color: #90ac8e;
+  font-family: Architects Daughter;
+  font-weight: bold;
+  background-color: #50745f;
+}
+.footer__github {
+  padding: 5px,10px;
+  background-color: #50745f;
+}
+.footer--icon {
+  color: #90ac8e;
+  background-color: #50745f;
+}
+
+.footer__twitter {
+  padding: 5px;
+  background-color: #50745f;
+}
+.footer__twitter--icon {
+  color: #90ac8e;
+  background-color: #50745f;
+}
+
+.footer__linkedin {
+  padding: 5px;
+  background-color: #50745f;
+}
+.footer__linkedin--icon {
+  color: #90ac8e;
+  background-color: #50745f;
+}
