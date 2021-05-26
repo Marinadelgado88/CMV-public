@@ -4,19 +4,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Semana 1</title>
+    <title>Semana 2</title>
     <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Pattaya&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/476ba4bf26.js" crossorigin="anonymous"></script>
     <link href="main.css" rel="stylesheet">
 </head>
-<body>
+<body class="day">
     <a name="arriba"></a>
     <header class="header" id="we-can-code-it">
         <h1 class="header__name">
-         My perfect holidays
+         My perfect holiday
         </h1>
+        <button>Change color</button>
         <nav class="header__nav">
           <ul class="header__nav--ul">
             <li class="header-list">
@@ -30,8 +31,13 @@
             </li>
           </ul>
         </nav>
+       
       </header>
+      
     <main>
+      <div class="space">
+
+      </div>
         <figure>
             <img src="The cliff.jpg" alt="The cliff">
             <figcaption>Th cliff</figcaption>
@@ -74,5 +80,8 @@
           </a>
         </nav>
       </footer>
+      <script>$("button").click(function(){
+        $("h1,background-color").toggleClass("noche");
+      });</script>
 </body>
 </html>
