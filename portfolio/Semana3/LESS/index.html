@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semana 2</title>
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Pattaya&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/476ba4bf26.js" crossorigin="anonymous"></script>
+    <link href="main.css" rel="stylesheet">
+</head>
+<body class="day">
+    <a name="arriba"></a>
+    <header class="header" id="we-can-code-it">
+        <h1 class="header__name">
+         My perfect holiday
+        </h1>
+        <button>Change color</button>
+        <nav class="header__nav">
+          <ul class="header__nav--ul">
+            <li class="header-list">
+              <a href="index.html#ir-a-equipo"  title="Go to equipo section"class="link"> TEAM </a>
+            </li>
+            <li class="header-list">
+              <a href="index.html#ir-a-the-party" title="Go to quienes somos section" class="link">ABOUT ME </a>
+            </li>
+            <li class="header-list">
+              <a href="https://www.linkedin.com/in/marinadelgadoesquinas/" title="Go to Linkedin page" class="link"> CONTACT </a>
+            </li>
+          </ul>
+        </nav>
+       
+      </header>
+      
+    <main>
+      <div class="space">
+
+      </div>
+        <figure>
+            <img src="The cliff.jpg" alt="The cliff">
+            <figcaption>Th cliff</figcaption>
+        </figure>
+        <figure>
+            <img src="The restaurant.jpg" alt="The restaurant">
+            <figcaption id="ir-a-equipo">The restaurant</figcaption>
+        </figure>
+        <figure>
+            <img src="Party.jpg" alt="Party">
+            <figcaption id="ir-a-the-party">The party</figcaption>
+        </figure>
+    </main>
+    <footer class='footer'>
+        <small class='footer__text'>2021 @Marinadelgado</small>
+        <nav>
+          <a
+            href='https://github.com/Marinadelgado88'
+            class='footer__github'
+            title='GitHub'
+            target='_blank'
+          >
+            <i class='fab fa-github footer__github--icon'></i>
+          </a>
+          <a
+            href='https://twitter.com/_MarinaDelgado_'
+            class='footer__twitter'
+            title='Twitter'
+            target='_blank'
+          >
+            <i class='fab fa-twitter footer__twitter--icon'></i>
+          </a>
+          <a
+            href='https://www.linkedin.com/in/marinadelgadoesquinas/'
+            class='footer__linkedin'
+            title='Linkedin'
+            target='_blank'
+          >
+            <i class='fab fa-linkedin footer__linkedin--icon'></i>
+          </a>
+        </nav>
+      </footer>
+      <script>$("button").click(function(){
+        $("h1,background-color").toggleClass("noche");
+      });</script>
+</body>
+</html>
