@@ -1,0 +1,49 @@
+/*
+CSS 
+web o pagina:
+autor:
+fecha:
+RECORDAR:
+en caso de conflictos se aplica el estilo que se define último,
+o sea al final de este archivo o en la misma pagina html
+
+Se incluyen los principales SELECTORES SIMPLES; hay más combinaciones...
+
+*/
+
+:root {
+  --azulclaro: #e6f2ff;
+}
+
+* {
+	 /* estilos por defecto para TODOS los elementos de la página; */
+	/* estilo:valor; */
+	font-family: 'Nunito', sans-serif;
+	text-transform:none;
+	box-sizing:border-box;
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	background: var(--azulclaro); /* Azul al 10% */
+}
+
+/*
+
+pseudoclases, asignarles estilos en este orden llamado LVHA:
+   :link — :visited — :hover — :active.
+   
+Más selectores y documentación:
+pseudo-clases: https://www.w3schools.com/css/css_pseudo_classes.asp
+pseudo-elementos: https://www.w3schools.com/css/css_pseudo_elements.asp
+pseudo-atributos: https://www.w3schools.com/css/css_attribute_selectors.asp
+formularios: https://www.w3schools.com/css/css_form.asp
+posicionamiento: https://www.w3schools.com/css/css_positioning.asp
+selectores: https://www.w3schools.com/cssref/css_selectors.asp
+*/
+
+
+
+
+
