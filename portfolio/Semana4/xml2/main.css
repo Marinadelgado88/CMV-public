@@ -1,0 +1,61 @@
+* {
+  font-family: "Nunito", sans-serif;
+  margin: 10px;
+  padding: 0px;
+}
+
+body {
+  background: #66c1ef;
+}
+
+main {
+  height: 250px;
+ 
+
+}
+header {
+  padding-top: 25px;
+}
+h1 {
+  background-color: #21b660;
+  margin: 100px;
+  box-shadow: 5px 5px 3px #ec1d27;
+  text-align: center;
+  position: relative;
+}
+h2 {
+  padding: 20px; 
+  text-align: center;
+  position: relative;
+}
+.carousel {
+  background-color: #ff8abf;
+  margin: 20px 50px 0px 350px;
+  padding: 15px 5px 15px 5px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 3px #1b660;
+  justify-content: center;
+  width: 600px;
+  
+}
+header p {
+  padding-top: 25px;
+  padding-left: 35px;
+  margin-bottom: 0px;
+  text-shadow: 5px 5px 5px #aaa;
+}
+div p {
+  margin-top: 115px;
+  margin-bottom: -25px;
+  background-color: #00000095;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  font-size: 0.75rem;
+}
+h5 {
+  background-color: #ec1d27;
+  padding: 3px 0px 1px 0px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
