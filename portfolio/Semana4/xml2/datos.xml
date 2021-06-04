@@ -8,13 +8,13 @@
     </elemento>
     <elemento>
         <nombre>Paris<nombre/>
-        <foto>https://i0.wp.com/hotbook.com.mx/wp-content/uploads/2019/01/fotosparis_portada.jpg?fit=1024%2C682&ssl=1<foto/>
+        <foto>https://i0.wp.com/hotbook.com.mx/wp-content/uploads/2019/01/fotosparis_portada.jpg?fit=1024%2C682&amp;ssl=1<foto/>
         <pie>Foto de la Torre Eifel <pie/>
         <detalle></detalle>
     </elemento>
     <elemento>
         <nombre>Paris<nombre/>
-        <foto>https://www.google.com/search?q=FOTOS&rlz=1C1CHBD_esES946ES946&sxsrf=ALeKk01E4pMClqbknjV9grbDJ41aknG6TQ:1622714301788&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGn57smfvwAhUQxIUKHfnZBvMQ_AUoAXoECAIQAw&biw=1366&bih=625#imgrc=_tjTmYsMH0a4CM<foto/>
+        <foto>https://www.google.com/search?q=FOTOS&amp;rlz=1C1CHBD_esES946ES946&amp;sxsrf=ALeKk01E4pMClqbknjV9grbDJ41aknG6TQ:1622714301788&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjGn57smfvwAhUQxIUKHfnZBvMQ_AUoAXoECAIQAw&amp;biw=1366&amp;bih=625#imgrc=_tjTmYsMH0a4CM<foto/>
         <pie>Foto de la Torre Eifel <pie/>
         <detalle></detalle>
     </elemento>
@@ -26,19 +26,19 @@
     </elemento>
     <elemento>
         <nombre>Paris<nombre/>
-        <foto>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTgvkNj1QFMtjXn0bvpBN1PnWNwgPKT9aHA&usqp=CAU<foto/>
+        <foto>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTgvkNj1QFMtjXn0bvpBN1PnWNwgPKT9aHA&amp;usqp=CAU<foto/>
         <pie>Foto de la Torre Eifel <pie/>
         <detalle></detalle>
     </elemento>
     <elemento>
         <nombre>Paris<nombre/>
-        <foto>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVt3WfJ-7XWAe0la0yAWXLVQvsM8jy_OB4w&usqp=CAU<foto/>
+        <foto>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVt3WfJ-7XWAe0la0yAWXLVQvsM8jy_OB4w&amp;usqp=CAU<foto/>
         <pie>Foto de la Torre Eifel <pie/>
         <detalle></detalle>
     </elemento>
     <elemento>
         <nombre>Paris<nombre/>
-        <foto>https://www.google.com/search?q=FOTOS&rlz=1C1CHBD_esES946ES946&sxsrf=ALeKk01E4pMClqbknjV9grbDJ41aknG6TQ:1622714301788&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGn57smfvwAhUQxIUKHfnZBvMQ_AUoAXoECAIQAw&biw=1366&bih=625#imgrc=_Rtw6hAuXBzAwM<foto/>
+        <foto>https://www.google.com/search?q=FOTOS&amp;rlz=1C1CHBD_esES946ES946&amp;sxsrf=ALeKk01E4pMClqbknjV9grbDJ41aknG6TQ:1622714301788&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjGn57smfvwAhUQxIUKHfnZBvMQ_AUoAXoECAIQAw&amp;biw=1366&amp;bih=625#imgrc=_Rtw6hAuXBzAwM<foto/>
         <pie>Foto de la Torre Eifel <pie/>
         <detalle></detalle>
     </elemento>
