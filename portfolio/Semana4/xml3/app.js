@@ -11,7 +11,7 @@ function leerXML0() {
             miFuncion(this);
         }
     };
-    xhr.open("GET", "https://Marinadelgado88.github.io/CMV-public/datos.xml", true);
+    xhr.open("GET", "https://github.com/carlosboniniklison/CMVpublico/blob/main/mmedia/datos.xml", true);
     //xhr.open("GET", "datos.xml", true);
     xhr.send();
 }
