@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  font-family: pattaya;
+}
+video{
+  width:640px;
+   height:360px;
+}
+
+::cue {
+  background-image: linear-gradient(to bottom, dimgray, lightgray);
+  color: papayawhip;
+}
+
+::cue(b) {
+  color: peachpuff;
+}
