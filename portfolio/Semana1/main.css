@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0px;
   font-family: pattaya;
+  
 }
 :root {
   --blue: #c9edea;
@@ -95,12 +96,15 @@ main {
   top: 130px;
   height: 40%;
   background-color: var(--pink);
+  object-fit: contain;
+
 }
 figure {
   width: 33%;
   height: auto;
   display: inline-block;
   position: relative;
+   object-fit: contain;
 }
 figure:hover {
   filter: blur(5px);
@@ -136,7 +140,7 @@ figcaption {
   justify-content: space-between;
   background-color: var(--blue);
   padding: 10px 50px;
-  position: relative;
+  position: absolute;
   bottom: -100px;
 }
 .footer__text {
